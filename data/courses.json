@@ -1,0 +1,272 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "General English and Intensive English",
+      "teacher": {
+        "name": "Jimmy Dane",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "General English courses are designed to help you whether you want to improve your English for work, study or travel.  You’ll improve your speaking, listening, reading and writing skills, increase your vocabulary and develop your grammar and language structures.Classes are usually available from beginner to advanced level, and courses may work towards an English language examination and qualification, such as Cambridge PET, FCE or CAE. Intensive English courses include more classes each week and may have additional elements / or a specific language focus."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Good" },
+     
+      "title": "Young Learners Programmes",
+      "teacher": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "PrThese courses are aimed specifically at students of under 17 years old. They usually run during summer and Easter holidays, and may be suitable for groups or individuals. Most Young Learner courses will include a social programme of extra activities and events, and these may include trips, visits, sports and cultural events, evening entertainment and so on. So you can have fun, make friends, practise your English and learn a lot more about Scotland and the UK – all at the same time!"
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+     
+      "category_id": "01",
+      "rating": { "number": 5, "badge": "Excellent" },
+      "title": "General English and Intensive English",
+      "teacher": {
+        "name": "Jennifer Wood",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "details": "General English courses are designed to help you whether you want to improve your English for work, study or travel.  You’ll improve your speaking, listening, reading and writing skills, increase your vocabulary and develop your grammar and language structures.Classes are usually available from beginner to advanced level, and courses may work towards an English language examination and qualification, such as Cambridge PET, FCE or CAE. Intensive English courses include more classes each week and may have additional elements / or a specific language focus"
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      
+      "category_id": "02",
+      "rating": { "number": 5, "badge": "Excellent" },
+      "title": "English Plus",
+      "teacher": {
+        "name": "Jennifer Wood",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "details": "English Plus courses combine English language study with academic subjects, say for example, art, history or computing – or leisure activities such as golf, flower arranging or Scottish dancing. This is a very lively and interesting way to study English and at the same time learn new skills and develop other areas of interest, and even gain new qualifications."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      
+      "category_id": "03",
+      "rating": { "number": 3, "badge": "Friendly Good" },
+      "total_view": 980,
+      "title": "Young Learners Programmes",
+      "teacher": {
+        "name": "system",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "These courses are aimed specifically at students of under 17 years old. They usually run during summer and Easter holidays, and may be suitable for groups or individuals. Most Young Learner courses will include a social programme of extra activities and events, and these may include trips, visits, sports and cultural events, evening entertainment and so on. So you can have fun, make friends, practise your English and learn a lot more about Scotland and the UK – all at the same time!"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+     
+      "category_id": "01",
+      "rating": { "number": 4, "badge": "Good" },
+      "total_view": 980,
+      "title": "General English and Intensive English",
+      "teacher": {
+        "name": "system",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "General English courses are designed to help you whether you want to improve your English for work, study or travel.  You’ll improve your speaking, listening, reading and writing skills, increase your vocabulary and develop your grammar and language structures. Classes are usually available from beginner to advanced level, and courses may work towards an English language examination and qualification, such as Cambridge PET, FCE or CAE.Intensive English courses include more classes each week and may have additional elements / or a specific language focus."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "English Plus",
+      "teacher": {
+        "name": "Miss. Rose",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "details": "English Plus courses combine English language study with academic subjects, say for example, art, history or computing – or leisure activities such as golf, flower arranging or Scottish dancing. "
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+     
+      "category_id": "03",
+      "rating": { "number": 5, "badge": "Excellent" },
+      
+      "title": "Young Learners Programmes",
+      "teacher": {
+        "name": "Mr. Chen",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
+      "details": "These courses are aimed specifically at students of under 17 years old. They usually run during summer and Easter holidays, and may be suitable for groups or individuals. Most Young Learner courses will include a social programme of extra activities and events, and these may include trips, visits, sports and cultural events, evening entertainment and so on. "
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Good" },
+      
+      "title": "One-to-one",
+      "teacher": {
+        "name": "Theo Minh Châu",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
+      "details": "Private classes may be offered in which you and your teachers focus on your personal language needs and goals. In one-to-one courses, your teacher will usually design lessons around your language level and specific areas of interest."
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      
+      "category_id": "04",
+      "rating": { "number": 5, "badge": "Excellent" },
+      
+      "title": "One-to-one",
+      "teacher": {
+        "name": "Taylor",
+  
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/Z2JjRnF/unsplash-Eh-Tc-C9s-YXsw-2.png",
+      "details": "Private classes may be offered in which you and your teachers focus on your personal language needs and goals. In one-to-one courses, your teacher will usually design lessons around your language level and specific areas of interest."
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      
+      "category_id": "05",
+      "rating": { "number": 5, "badge": "Excellent" },
+     
+      "title": "Academic English & University Access Preparation",
+      "teacher": {
+        "name": "Ukrainska Pravda",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+     
+      "image_url": "https://i.ibb.co/H4p2t3V/unsplash-Eh-Tc-C9s-YXsw-6.png",
+      "details": "An academic English course will prepare you for future study at university or college.  It will help you develop key study skills, and usually offer specific preparation for academic examinations, such as IELTS and / or TOEFL.   Academic English may be combined with a university access or foundation programme, where you can prepare for Scottish Highers and Advanced Highers or English A-level qualifications for entry to UK universities."
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Good" },
+      
+      "title": "Academic English & University Access Preparation",
+      "teacher": {
+        "name": "System",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+      "details": "An academic English course will prepare you for future study at university or college.  It will help you develop key study skills, and usually offer specific preparation for academic examinations, such as IELTS and / or TOEFL."
+    },
+
+    
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Good" },
+      
+      "title": "English for Specific Purposes",
+      "teacher": {
+        "name": "Miss. Rose",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "If you want to study English for professional reasons – for example, if you work in Law or Medicine – then this may be the option for you. These courses are usually intensive and can be delivered either one-to-one or in small groups. Work placements and/or visits may be included."
+    },
+    
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+     
+      "category_id": "01",
+      "rating": { "number": 4, "badge": "Good" },
+      "total_view": 980,
+      "title": "General English and Intensive English",
+      "teacher": {
+        "name": "Mr. Chen",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "General English courses are designed to help you whether you want to improve your English for work, study or travel.  You’ll improve your speaking, listening, reading and writing skills, increase your vocabulary and develop your grammar and language structures. Classes are usually available from beginner to advanced level, and courses may work towards an English language examination and qualification, such as Cambridge PET, FCE or CAE.Intensive English courses include more classes each week and may have additional elements / or a specific language focus."
+    },
+    
+    
+    
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Good" },
+     
+      "title": "Young Learners Programmes",
+      "teacher": {
+        "name": "Taylor",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "PrThese courses are aimed specifically at students of under 17 years old. They usually run during summer and Easter holidays, and may be suitable for groups or individuals. Most Young Learner courses will include a social programme of extra activities and events, and these may include trips, visits, sports and cultural events, evening entertainment and so on. So you can have fun, make friends, practise your English and learn a lot more about Scotland and the UK – all at the same time!"
+    }, 
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+     
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Good" },
+      "total_view": 980,
+      "title": "General English and Intensive English",
+      "teacher": {
+        "name": "Taylor",
+        
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "General English courses are designed to help you whether you want to improve your English for work, study or travel.  You’ll improve your speaking, listening, reading and writing skills, increase your vocabulary and develop your grammar and language structures. Classes are usually available from beginner to advanced level, and courses may work towards an English language examination and qualification, such as Cambridge PET, FCE or CAE.Intensive English courses include more classes each week and may have additional elements / or a specific language focus."
+    },
+  
+    
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      
+      "category_id": "04",
+      "rating": { "number": 5, "badge": "Excellent" },
+      
+      "title": "One-to-one",
+      "teacher": {
+        "name": "Miss. Rose",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      
+      "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
+      "details": "Private classes may be offered in which you and your teachers focus on your personal language needs and goals. In one-to-one courses, your teacher will usually design lessons around your language level and specific areas of interest."
+    }
+  ]
