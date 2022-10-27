@@ -1,6 +1,5 @@
 [
   {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "General English and Intensive English",
@@ -14,8 +13,7 @@
     "details": "General English courses are designed to help you whether you want to improve your English for work, study or travel.  You’ll improve your speaking, listening, reading and writing skills, increase your vocabulary and develop your grammar and language structures.Classes are usually available from beginner to advanced level, and courses may work towards an English language examination and qualification, such as Cambridge PET, FCE or CAE. Intensive English courses include more classes each week and may have additional elements / or a specific language focus."
   },
   {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-    
+  
     "category_id": "03",
     "rating": { "number": 4.5, "badge": "Good" },
    
@@ -29,7 +27,7 @@
   },
 
   {
-    "_id": "f69a695f037cd9484cecaea37ca71011",
+  
    
     "category_id": "01",
     "rating": { "number": 5, "badge": "Excellent" },
@@ -43,7 +41,6 @@
     "details": "General English courses are designed to help you whether you want to improve your English for work, study or travel.  You’ll improve your speaking, listening, reading and writing skills, increase your vocabulary and develop your grammar and language structures.Classes are usually available from beginner to advanced level, and courses may work towards an English language examination and qualification, such as Cambridge PET, FCE or CAE. Intensive English courses include more classes each week and may have additional elements / or a specific language focus"
   },
   {
-    "_id": "f69a695f037cd9484cecaea37ca71012",
     
     "category_id": "02",
     "rating": { "number": 5, "badge": "Excellent" },
@@ -59,7 +56,6 @@
   },
 
   {
-    "_id": "11468ed61aee84de492a8b04158a22f9",
     
     "category_id": "03",
     "rating": { "number": 3, "badge": "Friendly Good" },
@@ -75,8 +71,7 @@
     "details": "These courses are aimed specifically at students of under 17 years old. They usually run during summer and Easter holidays, and may be suitable for groups or individuals. Most Young Learner courses will include a social programme of extra activities and events, and these may include trips, visits, sports and cultural events, evening entertainment and so on. So you can have fun, make friends, practise your English and learn a lot more about Scotland and the UK – all at the same time!"
   },
   {
-    "_id": "11468ed61aee84de492a8b04158a22f0",
-   
+    
     "category_id": "01",
     "rating": { "number": 4, "badge": "Good" },
     "total_view": 980,
@@ -93,7 +88,6 @@
   },
 
   {
-    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
     
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
@@ -109,7 +103,6 @@
   },
 
   {
-    "_id": "a713ee936ff5574273f0f769f5c5b20e",
    
     "category_id": "03",
     "rating": { "number": 5, "badge": "Excellent" },
@@ -126,7 +119,6 @@
   },
 
   {
-    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
     
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Good" },
@@ -141,7 +133,6 @@
     "details": "Private classes may be offered in which you and your teachers focus on your personal language needs and goals. In one-to-one courses, your teacher will usually design lessons around your language level and specific areas of interest."
   },
   {
-    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
     
     "category_id": "04",
     "rating": { "number": 5, "badge": "Excellent" },
@@ -158,7 +149,6 @@
   },
 
   {
-    "_id": "f06f8cc035b04bd1158e4198281915a3",
     
     "category_id": "05",
     "rating": { "number": 5, "badge": "Excellent" },
@@ -173,7 +163,6 @@
     "details": "An academic English course will prepare you for future study at university or college.  It will help you develop key study skills, and usually offer specific preparation for academic examinations, such as IELTS and / or TOEFL.   Academic English may be combined with a university access or foundation programme, where you can prepare for Scottish Highers and Advanced Highers or English A-level qualifications for entry to UK universities."
   },
   {
-    "_id": "f06f8cc035b04bd1158e4198281915a4",
     
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Good" },
@@ -191,7 +180,6 @@
 
   
   {
-    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
     
     "category_id": "07",
     "rating": { "number": 4.5, "badge": "Good" },
@@ -208,8 +196,7 @@
   },
   
   {
-    "_id": "11468ed61aee84de492a8b04158a22f0",
-   
+    
     "category_id": "01",
     "rating": { "number": 4, "badge": "Good" },
     "total_view": 980,
@@ -228,7 +215,6 @@
   
   
   {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     
     "category_id": "03",
     "rating": { "number": 4.5, "badge": "Good" },
@@ -243,8 +229,7 @@
   }, 
 
   {
-    "_id": "11468ed61aee84de492a8b04158a22f0",
-   
+    
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Good" },
     "total_view": 980,
@@ -260,14 +245,12 @@
   },
 
   {
-    "_id": "e342b6c0c8efc8ca9e811991dc8a7991",
     
     "category_id": "06",
     "title": "Comming Soon"
   },
   
   {
-    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
     
     "category_id": "04",
     "rating": { "number": 5, "badge": "Excellent" },
